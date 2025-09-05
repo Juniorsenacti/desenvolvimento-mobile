@@ -1,0 +1,41 @@
+.card {
+  border: 1px solid gray;
+  width: 450px;
+}
+
+.conteudo {
+  padding: 10px;
+}
+
+.cabecalho {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.titulo {
+  float: left;
+}
+
+.preco {
+  float: right;
+}
+
+.description {
+  margin-top: 40px;
+  margin-bottom: 17px;
+  text-align: justify;
+}
+
+.acoes {
+  text-align: center;
+}
+
+.botao {
+  background-color: green;
+  width: 400px;
+  border-radius: 7px;
+  padding: 4px 0px;
+  color: white;
+  border: 0px;
+  cursor: pointer;
+}
